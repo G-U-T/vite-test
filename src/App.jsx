@@ -1,4 +1,5 @@
 import './App.css'
+import './custom-style.css'
 import {useState} from 'react'
 import {puppyList} from './data.js'
 
